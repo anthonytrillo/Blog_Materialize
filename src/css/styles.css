@@ -63,6 +63,7 @@ footer.page-footer {
     height: 80px;
     background: grey;
     bottom: 0;
+    text-align: center;
 }
 
 
@@ -86,4 +87,17 @@ footer.page-footer {
 
 .registro-header {
     height: 400px;
+}
+
+.contact {
+    background: #fafafa;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.filter{
+    display: none;
 }
