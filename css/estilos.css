@@ -97,7 +97,3 @@ footer.page-footer {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
-.filter {
-    display: none;
-}
