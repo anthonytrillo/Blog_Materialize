@@ -47,7 +47,7 @@ header ul a {
     height: 100px;
     float: none;
     display: flex;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .input-field > #search {
@@ -96,6 +96,17 @@ footer.page-footer {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+}
+
+.card {
+    height: 18rem;
+}
+.card-body {
+    margin: 1rem;
+}
+
+.btn-block {
+    margin: 8px 0px 10px 150px;
 }
 
 .filter{
